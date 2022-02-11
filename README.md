@@ -1,7 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
 
-Est-1 Julián David Bohórquez 202121973 J.bohorquezb@uniandes.edu.co
-Est-2 Juan Felipe Botero 201630657
+Est-1 Julián David Bohórquez 202121973 j.bohorquezb@uniandes.edu.co
+Est-2 Juan Felipe Botero 201630657 jf.botero@uniandes.edu.co
 
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
