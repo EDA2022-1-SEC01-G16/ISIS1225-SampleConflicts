@@ -1,6 +1,6 @@
 #ISIS1225 - Estructura de un proyecto
 
-Est-1 Julián David Bohórquez 202121973 
+Est-1 Julián David Bohórquez 202121973 j.bohorquezb@uniandes.edu.co
 Est-2 Juan Felipe Botero 201630657 jf.botero@uniandes.edu.co
 
 
